@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">REFLEX GAME</string>
+    <string name="start">When you ready, click to screen, then wait for the screen to turn green. Click the green screen as fast as you can.</string>
+    <string name="ready">Be Ready</string>
+    <string name="clickNow">Click Now!</string>
+    <string name="early">You clicked too early </string>
+    <string name="playerClicked">You clicked </string>
+    <string name="highestScore">Highest Score= </string>
+    <string name="mypref">myPref</string>
+    <string name="ms"> ms later.</string>
+</resources>
