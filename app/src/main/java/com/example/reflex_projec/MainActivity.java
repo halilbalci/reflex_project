@@ -24,7 +24,6 @@ public class MainActivity extends AppCompatActivity{
         FloatingActionButton fab = findViewById(R.id.floatingActionButton);
         fab.setOnClickListener(startGame());
         ConstraintLayout mainLayout = findViewById(R.id.mainLayout);
-
     }
 
     private  View.OnClickListener startGame(){
